@@ -1,4 +1,4 @@
-#RPACore
+# RPACore
 
 RPACore is an open-source Robotic Process Automation web platform.
 
